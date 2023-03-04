@@ -1,0 +1,60 @@
+{
+    "featuredJobs": [
+      {
+        "title": "Web Developer",
+        "company": "Acme Corp",
+        "location": "San Francisco, CA",
+        "salary": "$80,000 - $100,000",
+        "description": "We're looking for a skilled web developer to join our team and help us build amazing websites for our clients. The ideal candidate will have experience with HTML, CSS, JavaScript, and at least one web development framework such as React, Vue, or Angular.",
+        "logo": "https://example.com/acme-corp-logo.png",
+        "applyLink": "https://example.com/apply"
+      },
+      {
+        "title": "UX Designer",
+        "company": "Globex Corp",
+        "location": "New York, NY",
+        "salary": "$70,000 - $90,000",
+        "description": "We're seeking a talented UX designer to help us create beautiful and intuitive user experiences for our products. The ideal candidate will have experience with user research, wireframing, prototyping, and visual design tools like Sketch or Figma.",
+        "logo": "https://example.com/globex-corp-logo.png",
+        "applyLink": "https://example.com/apply"
+      },
+      {
+        "title": "Data Scientist",
+        "company": "Initech",
+        "location": "Austin, TX",
+        "salary": "$90,000 - $110,000",
+        "description": "We're hiring a data scientist to help us analyze and interpret large amounts of data to uncover insights and drive business decisions. The ideal candidate will have experience with statistical modeling, data visualization, and programming languages like Python or R.",
+        "logo": "https://example.com/initech-logo.png",
+        "applyLink": "https://example.com/apply"
+      },
+      {
+        "title": "Software Engineer",
+        "company": "Big Software Co",
+        "location": "Seattle, WA",
+        "salary": "$100,000 - $120,000",
+        "description": "We're looking for a software engineer to help us develop and maintain our cloud-based applications. The ideal candidate will have experience with programming languages like Java, Python, or C++, as well as cloud infrastructure like AWS or Azure.",
+        "logo": "https://example.com/big-software-co-logo.png",
+        "applyLink": "https://example.com/apply"
+      },
+      {
+        "title": "Digital Marketing Manager",
+        "company": "Marketing Co",
+        "location": "Chicago, IL",
+        "salary": "$60,000 - $80,000",
+        "description": "We're seeking a digital marketing manager to help us create and execute marketing campaigns across various channels like social media, email, and search. The ideal candidate will have experience with SEO, SEM, and social media advertising.",
+        "logo": "https://example.com/marketing-co-logo.png",
+        "applyLink": "https://example.com/apply"
+      },
+      {
+        "title": "Product Manager",
+        "company": "Startup Co",
+        "location": "San Diego, CA",
+        "salary": "$90,000 - $110,000",
+        "description": "We're hiring a product manager to help us define and execute our product roadmap. The ideal candidate will have experience with product strategy, user research, and agile development methodologies.",
+        "logo": "https://example.com/startup-co-logo.png",
+        "applyLink": "https://example.com/apply"
+      }
+    ]
+  }
+  
+  
